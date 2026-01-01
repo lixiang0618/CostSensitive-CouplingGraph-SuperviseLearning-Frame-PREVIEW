@@ -5,7 +5,7 @@
 > **Overview:**  
 > This project builds a **cost-sensitive coupling graph supervised learning framework**,  
 > automatically converts structured data into HeteroData, and provides fine-grained cost-sensitive learning strategies.
-> ⚠️## Note: The full code and data will be released later. Stay tuned! ##
+> ⚠️ **Note:** The full code and data will be released later for our rights. Stay tuned!
 
 ##  Usage Steps
 
@@ -47,7 +47,7 @@ Full workflow provided. Train directly with HAN or other frameworks.
 ## 项目简介
 > 本项目构建了一个**成本敏感的耦合图监督学习框架**，能自动将结构化数据转换为异构图（HeteroData），并支持细粒度成本敏感策略。
 > 在**华中师范大学信息管理学院肖飞老师**指导下完成。
-> ⚠️## Note: The full code and data will be released later. Stay tuned! ##
+> ⚠️ **注意：** 为保护项目，完整代码与数据将稍后公布，敬请关注！
 
 ##  功能模块
 
